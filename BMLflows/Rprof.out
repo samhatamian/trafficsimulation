@@ -1,0 +1,4 @@
+sample.interval=20000
+"paste" "FUN" "apply" "duplicated.matrix" "duplicated" "MoveCord" "runBMLGrid" 
+"list" "cordToPos" "runBMLGrid" 
+"print.default" "print" 

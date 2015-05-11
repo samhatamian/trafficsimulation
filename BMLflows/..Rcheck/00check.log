@@ -1,0 +1,7 @@
+* using log directory ‘/Users/bhatamian/Desktop/School/STA242/BMLflows/..Rcheck’
+* using R version 3.0.2 (2013-09-25)
+* using platform: x86_64-apple-darwin10.8.0 (64-bit)
+* using session charset: UTF-8
+* checking for file ‘./DESCRIPTION’ ... ERROR
+Required field missing or empty:
+  ‘Package’

@@ -1,0 +1,13 @@
+export(MoveCord)
+export(PosToCord)
+export(blocked)
+export(cordToPos)
+export(createBMLGrid)
+export(imagematrix)
+export(moved)
+S3method(plot, BMLgrid)
+export(runBMLGrid)
+export(velocity)
+S3method(summary, BMLgrid)
+
+useDynLib(BMLflows)

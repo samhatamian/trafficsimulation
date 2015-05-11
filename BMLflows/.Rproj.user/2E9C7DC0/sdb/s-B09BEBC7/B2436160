@@ -1,0 +1,16 @@
+{
+    "contents" : "sqrt(((0-2.88)^2*(0.55))+((2-2.88)^2*(0.12))+((8-2.88)^2*(0.33)))",
+    "created" : 1431358391186.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "1400618765",
+    "id" : "B2436160",
+    "lastKnownWriteTime" : 4294967295,
+    "path" : null,
+    "properties" : {
+        "tempName" : "Untitled3"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

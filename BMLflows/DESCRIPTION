@@ -1,0 +1,9 @@
+Package: BMLflows
+Type: Package
+Title: BML flows Package 
+Version: 1.0
+Date: 2015-04-29
+Author: Sam Hatamian
+Maintainer: Sam Hatamian <sdhatamian@ucdavis.edu>
+Description: To Simulate Traffic Flow 
+License: MIT

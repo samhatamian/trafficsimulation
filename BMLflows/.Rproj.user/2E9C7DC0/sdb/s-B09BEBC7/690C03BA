@@ -1,0 +1,15 @@
+{
+    "contents" : "export(MoveCord)\nexport(PosToCord)\nexport(blocked)\nexport(cordToPos)\nexport(createBMLGrid)\nexport(imagematrix)\nexport(moved)\nS3method(plot, BMLgrid)\nexport(runBMLGrid)\nexport(velocity)\nS3method(summary, BMLgrid)\n\nuseDynLib(BMLflows)",
+    "created" : 1430929938320.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "61494677",
+    "id" : "690C03BA",
+    "lastKnownWriteTime" : 1430930305,
+    "path" : "~/Desktop/School/STA242/BMLflows/NAMESPACE",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_namespace"
+}
